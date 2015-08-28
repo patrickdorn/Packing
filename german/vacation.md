@@ -3,7 +3,7 @@
 ###Papiere###
 
 - Ausweis/Kinderausweise
-- Reiseführer
+- ReisefÃ¼hrer
 - Geld
 - Karten
 - Eurochequekarte
@@ -17,48 +17,48 @@
 ###Camping###
 
 - Taschenlampe
-- Verlängerungskabel
+- VerlÃ¤ngerungskabel
 - Taschenmesser
 - Schere
-- Nähzeug
+- NÃ¤hzeug
 - Schaufel/Besen
-- Mückenlampe
-- Mückennetz
-- Wäscheleine
-- Zündhölzer
+- MÃ¼ckenlampe
+- MÃ¼ckennetz
+- WÃ¤scheleine
+- ZÃ¼ndhÃ¶lzer
 - Vorzelt
 - Luftmatratze
 - Lampe elek.
 - Lampe Gas
-- Leintücher
-- Penntüten
+- LeintÃ¼cher
+- PenntÃ¼ten
 - Axt
-- Aufhängehaken
-- Wäscheklammern
-- Hängematte
+- AufhÃ¤ngehaken
+- WÃ¤scheklammern
+- HÃ¤ngematte
 - Sonnenschirm
 - Zelt
-- Stühle/Tisch
+- StÃ¼hle/Tisch
 - Gasgrill
 
-###Persönliches###
+###PersÃ¶nliches###
 
 - Schminkzeug
 - Slipeinlagen/OB
 - Adressenbuch
 - Waschzeug
-- Zahnbürste
+- ZahnbÃ¼rste
 - Sonnencreme
 - Klopapier
 - Sonnenbrillen
 - Apres Creme
 - Zahnseide
-- Handtücher
-- Wäschebeutel
-- Bücher
-- Bürste/Kamm
+- HandtÃ¼cher
+- WÃ¤schebeutel
+- BÃ¼cher
+- BÃ¼rste/Kamm
 - Waschpulver
-- Ohrenstöpsel
+- OhrenstÃ¶psel
 
 ###Apotheke###
 
@@ -66,19 +66,18 @@
 - div. Salben
 - Pflaster
 - Desinfektion
-- Homöopathie/Aufzeichnung
+- HomÃ¶opathie/Aufzeichnung
 - Halsspray
 - Insektenschutz
 
 ###Klamotten###
 - Trainingsanzug
-- Mützen
+- MÃ¼tzen
 - Regensachen
 - Gummistiefel
-- Badesachen
 - Neoprenschuhe
 - Sandalen
-- Unterwäsche
+- UnterwÃ¤sche
 - Hosen
 - Oberteile
 
@@ -94,30 +93,30 @@
 - Arbeitshandschuhe
 - Fernglas
 
-###Küche###
+###KÃ¼che###
 
-- Töpfe
+- TÃ¶pfe
 - Tassen
-- Dosenöffner
-- Küchenmesser
-- Schöpfer
+- DosenÃ¶ffner
+- KÃ¼chenmesser
+- SchÃ¶pfer
 - Nudelsieb
 - Sieb
 - Brett
 - Pfanne
 - Plastikschale
-- Spülmittel
-- Spülbürste
-- Spültuch
+- SpÃ¼lmittel
+- SpÃ¼lbÃ¼rste
+- SpÃ¼ltuch
 - Besteck
 - Geschirr
 - Gummihandschuhe
-- Salatschüssel/-besteck
+- SalatschÃ¼ssel/-besteck
 - Korkenzieher
 - Schneebesen
-- Würstchenwender
-- Geschirrtücher
-- Mülltüten
+- WÃ¼rstchenwender
+- GeschirrtÃ¼cher
+- MÃ¼lltÃ¼ten
 - Papierrolle
 
 ###Notessen###
@@ -130,10 +129,10 @@
 - Tee/Teebeutel
 - Butter
 - Marmelade/Honig
-- Essig/Öl
+- Essig/Ã–l
 - Brot
 - Milch
-- Spaghettipäckchen etc.
+- SpaghettipÃ¤ckchen etc.
 
 ###Spiele###
 - Karten
@@ -146,8 +145,15 @@
 - Flickzeug
 - Ventile
 
+###Baden###
+- Badesachen
+- Taucherbrille
+- Schwimmbrille
+- Flossen
+- Schlauchboot
+
 ###Bus###
-- Öl
+- Ã–l
 - Wasser
 - Scheibenwaschanlage
 - Wassertank
